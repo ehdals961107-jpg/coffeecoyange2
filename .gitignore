@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.runtime/
+.qa/
+.env
+.env.*
+*.log
+*backup*.json
+!public/sample/store-operations.json
+
+# Original attachments and separate work
+data/
+design/
+planning/
